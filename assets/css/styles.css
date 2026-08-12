@@ -119,13 +119,13 @@ body {
     margin-top: -50px;
     padding: 0 16px;
 
-    @media (min-width: 375px) {
-        margin-top: -44px;
-    }
-
     font-size: 1.6rem;
     color: white;
     text-align: center;
+
+    @media (min-width: 375px) {
+        margin-top: -44px;
+    }
 
     a {
         color: var(--green);
