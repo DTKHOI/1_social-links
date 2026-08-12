@@ -1,7 +1,11 @@
 /* ---------------------------- Base ---------------------------- */
 html {
     font-size: 62.5%;
-    font-family: "Inter", "sans-serif";
+}
+
+html,
+body {
+    font-family: Inter, "sans-serif" !important;
 }
 
 h1 {
